@@ -1,4 +1,4 @@
-# ⚙️ HR_SAAS – AI Powered Hiring & Allocation Bot
+# ⚙️ AutoHR – AI Powered Hiring & Allocation Bot
 
 > Currently Base Codes only, what u judging for Negga! 😤  
 > Built to replace clueless HRs with an AI that **thinks**, **plans**, and **allocates** like a beast.
